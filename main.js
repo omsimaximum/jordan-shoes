@@ -1,3 +1,4 @@
+console.log("Hello Worlds")
 function changePic(item){
   document.getElementById('product').src = item;
 }
